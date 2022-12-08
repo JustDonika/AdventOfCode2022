@@ -1,0 +1,15 @@
+C:\Users\donov\Downloads\AdventOfCode2022\Day7Attempt2\bin\Debug\net6.0\Day7Attempt2.exe
+C:\Users\donov\Downloads\AdventOfCode2022\Day7Attempt2\bin\Debug\net6.0\Day7Attempt2.deps.json
+C:\Users\donov\Downloads\AdventOfCode2022\Day7Attempt2\bin\Debug\net6.0\Day7Attempt2.runtimeconfig.json
+C:\Users\donov\Downloads\AdventOfCode2022\Day7Attempt2\bin\Debug\net6.0\Day7Attempt2.dll
+C:\Users\donov\Downloads\AdventOfCode2022\Day7Attempt2\bin\Debug\net6.0\Day7Attempt2.pdb
+C:\Users\donov\Downloads\AdventOfCode2022\Day7Attempt2\obj\Debug\net6.0\Day7Attempt2.csproj.AssemblyReference.cache
+C:\Users\donov\Downloads\AdventOfCode2022\Day7Attempt2\obj\Debug\net6.0\Day7Attempt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donov\Downloads\AdventOfCode2022\Day7Attempt2\obj\Debug\net6.0\Day7Attempt2.AssemblyInfoInputs.cache
+C:\Users\donov\Downloads\AdventOfCode2022\Day7Attempt2\obj\Debug\net6.0\Day7Attempt2.AssemblyInfo.cs
+C:\Users\donov\Downloads\AdventOfCode2022\Day7Attempt2\obj\Debug\net6.0\Day7Attempt2.csproj.CoreCompileInputs.cache
+C:\Users\donov\Downloads\AdventOfCode2022\Day7Attempt2\obj\Debug\net6.0\Day7Attempt2.dll
+C:\Users\donov\Downloads\AdventOfCode2022\Day7Attempt2\obj\Debug\net6.0\refint\Day7Attempt2.dll
+C:\Users\donov\Downloads\AdventOfCode2022\Day7Attempt2\obj\Debug\net6.0\Day7Attempt2.pdb
+C:\Users\donov\Downloads\AdventOfCode2022\Day7Attempt2\obj\Debug\net6.0\Day7Attempt2.genruntimeconfig.cache
+C:\Users\donov\Downloads\AdventOfCode2022\Day7Attempt2\obj\Debug\net6.0\ref\Day7Attempt2.dll
