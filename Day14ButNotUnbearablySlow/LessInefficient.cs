@@ -41,9 +41,6 @@ namespace Csharp
                         if(sandy == 1){
                             return sandcount+1;
                         }
-                        if(sandcount % 100 == 0){
-                            Console.WriteLine(sandcount);
-                        }
                         map[sandx-300, sandy-1] = 1;
                         sandcount++;
                         sandx = 500;

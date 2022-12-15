@@ -1,0 +1,15 @@
+C:\Users\donov\Downloads\AdventOfCode2022\Day15HaveMercy\obj\Debug\net6.0\Day15HaveMercy.csproj.AssemblyReference.cache
+C:\Users\donov\Downloads\AdventOfCode2022\Day15HaveMercy\obj\Debug\net6.0\Day15HaveMercy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donov\Downloads\AdventOfCode2022\Day15HaveMercy\obj\Debug\net6.0\Day15HaveMercy.AssemblyInfoInputs.cache
+C:\Users\donov\Downloads\AdventOfCode2022\Day15HaveMercy\obj\Debug\net6.0\Day15HaveMercy.AssemblyInfo.cs
+C:\Users\donov\Downloads\AdventOfCode2022\Day15HaveMercy\obj\Debug\net6.0\Day15HaveMercy.csproj.CoreCompileInputs.cache
+C:\Users\donov\Downloads\AdventOfCode2022\Day15HaveMercy\bin\Debug\net6.0\Day15HaveMercy.exe
+C:\Users\donov\Downloads\AdventOfCode2022\Day15HaveMercy\bin\Debug\net6.0\Day15HaveMercy.deps.json
+C:\Users\donov\Downloads\AdventOfCode2022\Day15HaveMercy\bin\Debug\net6.0\Day15HaveMercy.runtimeconfig.json
+C:\Users\donov\Downloads\AdventOfCode2022\Day15HaveMercy\bin\Debug\net6.0\Day15HaveMercy.dll
+C:\Users\donov\Downloads\AdventOfCode2022\Day15HaveMercy\bin\Debug\net6.0\Day15HaveMercy.pdb
+C:\Users\donov\Downloads\AdventOfCode2022\Day15HaveMercy\obj\Debug\net6.0\Day15HaveMercy.dll
+C:\Users\donov\Downloads\AdventOfCode2022\Day15HaveMercy\obj\Debug\net6.0\refint\Day15HaveMercy.dll
+C:\Users\donov\Downloads\AdventOfCode2022\Day15HaveMercy\obj\Debug\net6.0\Day15HaveMercy.pdb
+C:\Users\donov\Downloads\AdventOfCode2022\Day15HaveMercy\obj\Debug\net6.0\Day15HaveMercy.genruntimeconfig.cache
+C:\Users\donov\Downloads\AdventOfCode2022\Day15HaveMercy\obj\Debug\net6.0\ref\Day15HaveMercy.dll
