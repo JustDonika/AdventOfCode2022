@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\donov\\Downloads\\AdventOfCode2022\\Day15SuccessfulAttempt\\Day15HaveMercy.csproj": {}
+    "C:\\Users\\donov\\Downloads\\AdventOfCode2022\\Day16\\Day16.csproj": {}
   },
   "projects": {
-    "C:\\Users\\donov\\Downloads\\AdventOfCode2022\\Day15SuccessfulAttempt\\Day15HaveMercy.csproj": {
+    "C:\\Users\\donov\\Downloads\\AdventOfCode2022\\Day16\\Day16.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\donov\\Downloads\\AdventOfCode2022\\Day15SuccessfulAttempt\\Day15HaveMercy.csproj",
-        "projectName": "Day15HaveMercy",
-        "projectPath": "C:\\Users\\donov\\Downloads\\AdventOfCode2022\\Day15SuccessfulAttempt\\Day15HaveMercy.csproj",
+        "projectUniqueName": "C:\\Users\\donov\\Downloads\\AdventOfCode2022\\Day16\\Day16.csproj",
+        "projectName": "Day16",
+        "projectPath": "C:\\Users\\donov\\Downloads\\AdventOfCode2022\\Day16\\Day16.csproj",
         "packagesPath": "C:\\Users\\donov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\donov\\Downloads\\AdventOfCode2022\\Day15SuccessfulAttempt\\obj\\",
+        "outputPath": "C:\\Users\\donov\\Downloads\\AdventOfCode2022\\Day16\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
