@@ -1,0 +1,15 @@
+C:\Users\donov\Downloads\AdventOfCode2022\Day20\bin\Debug\net6.0\Day20.exe
+C:\Users\donov\Downloads\AdventOfCode2022\Day20\bin\Debug\net6.0\Day20.deps.json
+C:\Users\donov\Downloads\AdventOfCode2022\Day20\bin\Debug\net6.0\Day20.runtimeconfig.json
+C:\Users\donov\Downloads\AdventOfCode2022\Day20\bin\Debug\net6.0\Day20.dll
+C:\Users\donov\Downloads\AdventOfCode2022\Day20\bin\Debug\net6.0\Day20.pdb
+C:\Users\donov\Downloads\AdventOfCode2022\Day20\obj\Debug\net6.0\Day20.csproj.AssemblyReference.cache
+C:\Users\donov\Downloads\AdventOfCode2022\Day20\obj\Debug\net6.0\Day20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donov\Downloads\AdventOfCode2022\Day20\obj\Debug\net6.0\Day20.AssemblyInfoInputs.cache
+C:\Users\donov\Downloads\AdventOfCode2022\Day20\obj\Debug\net6.0\Day20.AssemblyInfo.cs
+C:\Users\donov\Downloads\AdventOfCode2022\Day20\obj\Debug\net6.0\Day20.csproj.CoreCompileInputs.cache
+C:\Users\donov\Downloads\AdventOfCode2022\Day20\obj\Debug\net6.0\Day20.dll
+C:\Users\donov\Downloads\AdventOfCode2022\Day20\obj\Debug\net6.0\refint\Day20.dll
+C:\Users\donov\Downloads\AdventOfCode2022\Day20\obj\Debug\net6.0\Day20.pdb
+C:\Users\donov\Downloads\AdventOfCode2022\Day20\obj\Debug\net6.0\Day20.genruntimeconfig.cache
+C:\Users\donov\Downloads\AdventOfCode2022\Day20\obj\Debug\net6.0\ref\Day20.dll

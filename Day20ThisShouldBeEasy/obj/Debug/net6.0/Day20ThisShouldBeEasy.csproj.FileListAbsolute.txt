@@ -1,0 +1,15 @@
+C:\Users\donov\Downloads\AdventOfCode2022\Day20ThisShouldBeEasy\obj\Debug\net6.0\Day20ThisShouldBeEasy.csproj.AssemblyReference.cache
+C:\Users\donov\Downloads\AdventOfCode2022\Day20ThisShouldBeEasy\obj\Debug\net6.0\Day20ThisShouldBeEasy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donov\Downloads\AdventOfCode2022\Day20ThisShouldBeEasy\obj\Debug\net6.0\Day20ThisShouldBeEasy.AssemblyInfoInputs.cache
+C:\Users\donov\Downloads\AdventOfCode2022\Day20ThisShouldBeEasy\obj\Debug\net6.0\Day20ThisShouldBeEasy.AssemblyInfo.cs
+C:\Users\donov\Downloads\AdventOfCode2022\Day20ThisShouldBeEasy\obj\Debug\net6.0\Day20ThisShouldBeEasy.csproj.CoreCompileInputs.cache
+C:\Users\donov\Downloads\AdventOfCode2022\Day20ThisShouldBeEasy\bin\Debug\net6.0\Day20ThisShouldBeEasy.exe
+C:\Users\donov\Downloads\AdventOfCode2022\Day20ThisShouldBeEasy\bin\Debug\net6.0\Day20ThisShouldBeEasy.deps.json
+C:\Users\donov\Downloads\AdventOfCode2022\Day20ThisShouldBeEasy\bin\Debug\net6.0\Day20ThisShouldBeEasy.runtimeconfig.json
+C:\Users\donov\Downloads\AdventOfCode2022\Day20ThisShouldBeEasy\bin\Debug\net6.0\Day20ThisShouldBeEasy.dll
+C:\Users\donov\Downloads\AdventOfCode2022\Day20ThisShouldBeEasy\bin\Debug\net6.0\Day20ThisShouldBeEasy.pdb
+C:\Users\donov\Downloads\AdventOfCode2022\Day20ThisShouldBeEasy\obj\Debug\net6.0\Day20ThisShouldBeEasy.dll
+C:\Users\donov\Downloads\AdventOfCode2022\Day20ThisShouldBeEasy\obj\Debug\net6.0\refint\Day20ThisShouldBeEasy.dll
+C:\Users\donov\Downloads\AdventOfCode2022\Day20ThisShouldBeEasy\obj\Debug\net6.0\Day20ThisShouldBeEasy.pdb
+C:\Users\donov\Downloads\AdventOfCode2022\Day20ThisShouldBeEasy\obj\Debug\net6.0\Day20ThisShouldBeEasy.genruntimeconfig.cache
+C:\Users\donov\Downloads\AdventOfCode2022\Day20ThisShouldBeEasy\obj\Debug\net6.0\ref\Day20ThisShouldBeEasy.dll
